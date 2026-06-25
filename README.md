@@ -9,7 +9,7 @@
 
 🏫 I am currently pursuing my Engineering in Computer Science<br>
 
-🔭 I’m currently working on my own Operating System
+🔭 I’m currently working on Java MCP Server
 
 🌱 I’m currently learning **Cloud Computing** with a focus on **AWS, Virtualization, and Cloud Architecture Fundamentals**.
 

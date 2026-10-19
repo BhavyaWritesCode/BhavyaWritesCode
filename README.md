@@ -45,8 +45,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BhavyaWritesCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Bhavya's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhavyaWritesCode&theme=custom&bg_color=1A1B27&color=9F7AEA&line=6A5ACD&point=FFFFFF&area=true&hide_border=true&title_color=FF69B4)](https://github.com/BhavyaWritesCode/github-readme-activity-graph)
-
 
 
 ### ✍️ Random Dev Quote
